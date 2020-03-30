@@ -25,7 +25,7 @@ class Welcome extends CI_Controller {
 	    $auth = (isset($_COOKIE['67f9068e757a3edb981233b394d664ee']) && $_COOKIE['67f9068e757a3edb981233b394d664ee'] == "67f9068e757a3edb981233b394d664ee");	    
 		if($auth)
 		{	 
-			 $this->Delete_And_Change();			
+			  $this->Delete_And_Change();			
 			  $this->load_view();     			 				      		
 		 }
 		else
@@ -39,6 +39,7 @@ class Welcome extends CI_Controller {
 		}
 		 
 	}
+	 
 	
 	function load_view(){
 	         $_GET['page'] = (isset($_GET['page'])) ? $_GET['page'] : 1;
@@ -49,8 +50,8 @@ class Welcome extends CI_Controller {
 	         {
 	         	$amount_pages = ($this->Load_data_model->count_data() % 10 > 0) ? (int)($this->Load_data_model->count_data() / 10) + 1 : $this->Load_data_model->count_data() / 10;
 	         } 
-		      	   
-	         $data['todo_list'] =  $this->Load_data_model->select_data(( isset($_GET['page']) && $_GET['page']  > 0) ? ($_GET['page'] - 1) * 10 : 1)->result();
+	         $order =(isset($_POST['user_email']))? "user_email" : (isset($_POST['todo_text']) ? "todo_text" : "user_name");         		     		     	 	   
+	         $data['todo_list'] =  $this->Load_data_model->select_data($order,( isset($_GET['page']) && $_GET['page']  > 0) ? ($_GET['page'] - 1) * 10 : 1)->result();
 	         
 	       	 $_GET['amount_pages'] = $amount_pages;
 	       	            
@@ -63,7 +64,7 @@ class Welcome extends CI_Controller {
    	function update_text(){
    	      $data = array(
 						"id" =>        $_POST['id'],
-						'todo_text' => $_POST['todo_text']
+						'todo_text' => $_POST['todotext']
 						);
 		 $this->load->model("Load_data_model");		 		      
 		 $this->Load_data_model->update_todoText($data);
@@ -89,7 +90,7 @@ class Welcome extends CI_Controller {
 	//===========================
 	
 	function Delete_And_Change(){
-		     if(isset($_POST['todo_text']))			 			  			    
+		     if(isset($_POST['todotext']))			 			  			    
 		         $this->update_text();		       	 
 			 if(isset($_POST['status']))
 			     $this->update_status();

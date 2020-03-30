@@ -16,19 +16,19 @@ defined('BASEPATH') OR exit('No direct script access allowed');
  		$this->db->update('tbl_todolist', $data['todo_text']); 	
  	}
  	 
- 	
- 	public function select_data($sart)
+ /*	
+ 	public function select_data($ORDER_BY = "user_name" $sart)
  	{
  		
  		$this->db->select('*');
  		$this->db->from("tbl_todolist");
- 		$this->db->order_by('user_name');
+ 		$this->db->order_by('$ORDER_BY');
  		$this->db->limit(10, $start);
  		$query = $this->db->get();
  		return $query;
  	}
  	
- 	
+ 	*/
  	
  }
 

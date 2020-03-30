@@ -20,7 +20,26 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 	 <div class="container-fluid">
 	 <div class="row">
 	
-	 	<div class="col-md-11">
+	 	<div class="col-md-11 todo">
+	 				 <form action="" method="post">	 		  	 
+	 		  	<table class="table">
+	 		  		<tr style="border-width: 1px; border-color:#8d8587;border-bottom-style:solid;border-top-style:solid;  ">
+	 		  			<th style="border-left-style: solid;border-top-style: solid; border-width: 1px; border-color:#8d8587; padding: 2px;">	 		  				
+	 		  				<input type="button" value="Сортировка" class="btn form-control  text-datk" name="user_name"/>
+	 		     		</th>
+	 		     		<th style="border-left-style: solid;border-top-style: solid; border-width: 1px; border-color:#8d8587; padding: 2px;">
+	 		  				<input type="submit" value="По имени пользователя" class="btn form-control  text-success" name="user_name"/>
+	 		     		</th>
+	 		  			<th style="border-left-style: solid; border-width: 1px; border-color:#8d8587; padding: 2px;">	 		
+	 		  				 <input type="submit" value="По email" class="btn form-control  text-success" name="user_email"/>	 		  	
+	 		  			</th>
+	 		  			<th style="border-left-style: solid; border-width: 1px; border-color:#8d8587; padding: 2px;">	 		  					 
+	 		  				 <input type="submit" value="По статус" class="btn form-control text-success" name="todo_text"/>	 		  	
+	 		  			</th>
+	 		  		</tr>	 		  		
+	 		  	</table>  		  	
+	 	 </form>
+	 				
 	 		<div class="scrollbar" id="style-1">
 	 		  <div class="container">
 	 		  
@@ -46,24 +65,24 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 			 				<hr>
 			 				
 			 				<div id="status<?=$row->id;?>">			 				 
-			 				<i style="color: <?=($row->status==0) ? 'red':'green'?>"><?=($row->status==0)?('Ещё не выполнено'):("<img src='user_guide\_images\success.png'> Выполнено")?></i> 			 				
+			 				<i style="color: <?=($row->status==0) ? 'red':'green'?>"><?=($row->status==0)?('Ещё не выполнено'):("<img src='user_guide/_images/success.png'> Выполнено")?></i> 			 				
 			 				</div>
 			 				 <div >
 				 				 <span id="btn_todo<?=$row->id;?>">
 				 				 <?if($row->status == 0){ ?>
 				 				  <button type="button" id="do<?=$row->id;?>" class="btn btn-link" style="margin-top: 5px; font-size: 12px; padding:4px;" onclick="todo_(<?=$row->id;?>)">
-				 				  <img src="user_guide\_images\success.png">
+				 				  <img src="user_guide/_images/success.png">
 				 				  </button>
 				 				  <? } ?>
 				 				  </span>
 				 				 <span id="btn_edit<?=$row->id;?>">   
 				 				  <button type="button"  id="edit<?=$row->id;?>" onclick="edit_(<?=$row->id;?>)" class="btn btn-link" style="margin-top: 5px; font-size: 12px; padding:4px;">
-				 				  <img src="user_guide\_images\edit.png">
+				 				  <img src="user_guide/_images/edit.png">
 				 				  </button> 
 				 				 </span>
 				 				 <span id="btn_delete<?=$row->id;?>"> 
 				 				  <button type="button" id="delete<?=$row->id;?>" onclick="delete_(<?=$row->id;?>)" class="btn btn-link" style="margin-top: 5px; font-size: 12px; padding:4px;">
-				 				  <img src="user_guide\_images\delete.ico" width="16" height="16">
+				 				  <img src="user_guide/_images/delete.ico" width="16" height="16">
 				 				  </button>
 				 				 </span>
 			 				 </div>
@@ -131,8 +150,9 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 	  	<br>  		<br> 
 	  </div>
 
-	<script src="user_guide/_static/js/js_scroll.js"></script>
+	
 	<script src="user_guide/_static/jquery-3.1.0.js"></script>
+	
 	<script>
 	  var edit_click = "";	  
 		 function todo_(id_){
@@ -141,7 +161,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 		 	type:"POST",
 		 	data: {'id':id_,'status':'1'},
 		 	success: function(){
-			 	document.getElementById("status"+id_).innerHTML = "<i class='text-success'><img src='user_guide\_images\success.png'> Выпольнено</i>";	
+			 	document.getElementById("status"+id_).innerHTML = "<i class='text-success'><img src='user_guide/_images/success.png'> Выпольнено</i>";	
 			 	document.getElementById("btn_todo"+id_).innerHTML = "";
 		 	}
 		 	
@@ -168,7 +188,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 			 			type:'POST',
 			 			data:{
 			 			'id':id_, 
-			 			'todo_text': document.getElementById('t'+id_).value.trim()
+			 			'todotext': document.getElementById('t'+id_).value.trim()
 			 			},
 		 			    success:function(){
 		 			        document.getElementById("text"+id_).innerHTML = document.getElementById('t'+id_).value.trim();

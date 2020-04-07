@@ -1,0 +1,74 @@
+<?xml version='1.0' encoding='utf-8'?>
+<project name="C:\Users\User\Downloads\OSPanel\domains\localhost\todoList_admin\application\application.clpprj">
+ <settings>
+  <PM_URL><![CDATA[http://localhost/C:/Users/User/Downloads/OSPanel/domains/localhost/todoList_admin/application]]></PM_URL>
+  <PM_HOME_URL><![CDATA[http://localhost/C:/Users/User/Downloads/OSPanel/domains/localhost/todoList_admin/application]]></PM_HOME_URL>
+  <PM_LIBS><![CDATA[]]></PM_LIBS>
+  <PM_FTP_CONNECTION><![CDATA[]]></PM_FTP_CONNECTION>
+  <PM_FTP_DIR><![CDATA[]]></PM_FTP_DIR>
+  <PM_FTP_UPLOAD_ON_SAVE><![CDATA[INT:0]]></PM_FTP_UPLOAD_ON_SAVE>
+ </settings>
+ <removed value=";"/>
+ <added value=""/>
+ <lastopfiles>
+  <file name="C:\Users\User\Downloads\OSPanel\domains\localhost\todoList_admin\application\controllers\Welcome.php"/>
+  <file name="C:\Users\User\Downloads\OSPanel\domains\localhost\todoList_admin\application\models\Load_data_model.php"/>
+  <file name="C:\Users\User\Downloads\OSPanel\domains\localhost\todoList_admin\application\views\welcome.php"/>
+  <lastactivefile name="C:\Users\User\Downloads\OSPanel\domains\localhost\todoList_admin\application\views\welcome.php"/>
+ </lastopfiles>
+ <todoblock>
+  <todofile name="C:\Users\User\Downloads\OSPanel\domains\localhost\todoList_admin\application\models\Load_data_model.php">
+   <todo pos="40;21" name="todolist&quot;, $data)->result());"/>
+  </todofile>
+ </todoblock>
+ <dbgurls/>
+ <filescache>
+  <file crc="1568851724000" name="C:\Users\User\Downloads\OSPanel\domains\localhost\todoList_admin\application\views\errors\html\index.html"/>
+  <file crc="1568851724000" name="C:\Users\User\Downloads\OSPanel\domains\localhost\todoList_admin\application\views\errors\html\error_php.php"/>
+  <file crc="1568851724000" name="C:\Users\User\Downloads\OSPanel\domains\localhost\todoList_admin\application\views\errors\html\error_general.php"/>
+  <file crc="1568851724000" name="C:\Users\User\Downloads\OSPanel\domains\localhost\todoList_admin\application\views\errors\html\error_exception.php"/>
+  <file crc="1568851724000" name="C:\Users\User\Downloads\OSPanel\domains\localhost\todoList_admin\application\views\errors\html\error_db.php"/>
+  <file crc="1568851724000" name="C:\Users\User\Downloads\OSPanel\domains\localhost\todoList_admin\application\views\errors\html\error_404.php"/>
+  <file crc="1568851724000" name="C:\Users\User\Downloads\OSPanel\domains\localhost\todoList_admin\application\views\errors\cli\index.html"/>
+  <file crc="1568851724000" name="C:\Users\User\Downloads\OSPanel\domains\localhost\todoList_admin\application\views\errors\cli\error_php.php"/>
+  <file crc="1568851724000" name="C:\Users\User\Downloads\OSPanel\domains\localhost\todoList_admin\application\views\errors\cli\error_general.php"/>
+  <file crc="1568851724000" name="C:\Users\User\Downloads\OSPanel\domains\localhost\todoList_admin\application\views\errors\cli\error_exception.php"/>
+  <file crc="1568851724000" name="C:\Users\User\Downloads\OSPanel\domains\localhost\todoList_admin\application\views\errors\cli\error_db.php"/>
+  <file crc="1568851724000" name="C:\Users\User\Downloads\OSPanel\domains\localhost\todoList_admin\application\views\errors\cli\error_404.php"/>
+  <file crc="1568851724000" name="C:\Users\User\Downloads\OSPanel\domains\localhost\todoList_admin\application\views\errors\index.html"/>
+  <file crc="1585559654737" name="C:\Users\User\Downloads\OSPanel\domains\localhost\todoList_admin\application\views\welcome.php"/>
+  <file crc="1568851724000" name="C:\Users\User\Downloads\OSPanel\domains\localhost\todoList_admin\application\views\index.html"/>
+  <file crc="1585320155622" name="C:\Users\User\Downloads\OSPanel\domains\localhost\todoList_admin\application\views\authorization.php"/>
+  <file crc="1568851724000" name="C:\Users\User\Downloads\OSPanel\domains\localhost\todoList_admin\application\third_party\index.html"/>
+  <file crc="1585556770979" name="C:\Users\User\Downloads\OSPanel\domains\localhost\todoList_admin\application\models\SaveData_model.php"/>
+  <file crc="1585558893791" name="C:\Users\User\Downloads\OSPanel\domains\localhost\todoList_admin\application\models\Load_data_model.php"/>
+  <file crc="1568851724000" name="C:\Users\User\Downloads\OSPanel\domains\localhost\todoList_admin\application\models\index.html"/>
+  <file crc="1568851724000" name="C:\Users\User\Downloads\OSPanel\domains\localhost\todoList_admin\application\logs\index.html"/>
+  <file crc="1568851724000" name="C:\Users\User\Downloads\OSPanel\domains\localhost\todoList_admin\application\libraries\index.html"/>
+  <file crc="1568851724000" name="C:\Users\User\Downloads\OSPanel\domains\localhost\todoList_admin\application\language\english\index.html"/>
+  <file crc="1568851724000" name="C:\Users\User\Downloads\OSPanel\domains\localhost\todoList_admin\application\language\index.html"/>
+  <file crc="1568851724000" name="C:\Users\User\Downloads\OSPanel\domains\localhost\todoList_admin\application\hooks\index.html"/>
+  <file crc="1568851724000" name="C:\Users\User\Downloads\OSPanel\domains\localhost\todoList_admin\application\helpers\index.html"/>
+  <file crc="1568851724000" name="C:\Users\User\Downloads\OSPanel\domains\localhost\todoList_admin\application\core\index.html"/>
+  <file crc="1585558473414" name="C:\Users\User\Downloads\OSPanel\domains\localhost\todoList_admin\application\controllers\Welcome.php"/>
+  <file crc="1568851724000" name="C:\Users\User\Downloads\OSPanel\domains\localhost\todoList_admin\application\controllers\index.html"/>
+  <file crc="1568851724000" name="C:\Users\User\Downloads\OSPanel\domains\localhost\todoList_admin\application\config\user_agents.php"/>
+  <file crc="1568851724000" name="C:\Users\User\Downloads\OSPanel\domains\localhost\todoList_admin\application\config\smileys.php"/>
+  <file crc="1585329608303" name="C:\Users\User\Downloads\OSPanel\domains\localhost\todoList_admin\application\config\routes.php"/>
+  <file crc="1568851724000" name="C:\Users\User\Downloads\OSPanel\domains\localhost\todoList_admin\application\config\profiler.php"/>
+  <file crc="1568851724000" name="C:\Users\User\Downloads\OSPanel\domains\localhost\todoList_admin\application\config\mimes.php"/>
+  <file crc="1568851724000" name="C:\Users\User\Downloads\OSPanel\domains\localhost\todoList_admin\application\config\migration.php"/>
+  <file crc="1568851724000" name="C:\Users\User\Downloads\OSPanel\domains\localhost\todoList_admin\application\config\memcached.php"/>
+  <file crc="1568851724000" name="C:\Users\User\Downloads\OSPanel\domains\localhost\todoList_admin\application\config\index.html"/>
+  <file crc="1568851724000" name="C:\Users\User\Downloads\OSPanel\domains\localhost\todoList_admin\application\config\hooks.php"/>
+  <file crc="1568851724000" name="C:\Users\User\Downloads\OSPanel\domains\localhost\todoList_admin\application\config\foreign_chars.php"/>
+  <file crc="1568851724000" name="C:\Users\User\Downloads\OSPanel\domains\localhost\todoList_admin\application\config\doctypes.php"/>
+  <file crc="1585233654211" name="C:\Users\User\Downloads\OSPanel\domains\localhost\todoList_admin\application\config\database.php"/>
+  <file crc="1568851724000" name="C:\Users\User\Downloads\OSPanel\domains\localhost\todoList_admin\application\config\constants.php"/>
+  <file crc="1585329149115" name="C:\Users\User\Downloads\OSPanel\domains\localhost\todoList_admin\application\config\config.php"/>
+  <file crc="1585254312837" name="C:\Users\User\Downloads\OSPanel\domains\localhost\todoList_admin\application\config\autoload.php"/>
+  <file crc="1568851724000" name="C:\Users\User\Downloads\OSPanel\domains\localhost\todoList_admin\application\cache\index.html"/>
+  <file crc="1568851724000" name="C:\Users\User\Downloads\OSPanel\domains\localhost\todoList_admin\application\index.html"/>
+  <file crc="1568851724000" name="C:\Users\User\Downloads\OSPanel\domains\localhost\todoList_admin\application\.htaccess"/>
+ </filescache>
+</project>

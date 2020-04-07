@@ -1,0 +1,167 @@
+
+<codestructure version="1.7.1">
+<phptree>
+<treenode node="DIR_READ_MODE;PHP:PHP Word;C:\Users\User\Downloads\OSPanel\domains\localhost\todoList_admin\application\config\constants.php;f38;30;51;30;;;;vpos;;v;;a;;r0755;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="DIR_WRITE_MODE;PHP:PHP Word;C:\Users\User\Downloads\OSPanel\domains\localhost\todoList_admin\application\config\constants.php;f38;31;52;31;;;;vpos;;v;;a;;r0755;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="EXIT_CONFIG;PHP:PHP Word;C:\Users\User\Downloads\OSPanel\domains\localhost\todoList_admin\application\config\constants.php;f42;77;53;77;;;;vpos;;v;;a;;r3;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="EXIT_DATABASE;PHP:PHP Word;C:\Users\User\Downloads\OSPanel\domains\localhost\todoList_admin\application\config\constants.php;f42;82;55;82;;;;vpos;;v;;a;;r8;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="EXIT_ERROR;PHP:PHP Word;C:\Users\User\Downloads\OSPanel\domains\localhost\todoList_admin\application\config\constants.php;f42;76;52;76;;;;vpos;;v;;a;;r1;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="EXIT_SUCCESS;PHP:PHP Word;C:\Users\User\Downloads\OSPanel\domains\localhost\todoList_admin\application\config\constants.php;f42;75;54;75;;;;vpos;;v;;a;;r0;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="EXIT_UNKNOWN_CLASS;PHP:PHP Word;C:\Users\User\Downloads\OSPanel\domains\localhost\todoList_admin\application\config\constants.php;f42;79;60;79;;;;vpos;;v;;a;;r5;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="EXIT_UNKNOWN_FILE;PHP:PHP Word;C:\Users\User\Downloads\OSPanel\domains\localhost\todoList_admin\application\config\constants.php;f42;78;59;78;;;;vpos;;v;;a;;r4;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="EXIT_UNKNOWN_METHOD;PHP:PHP Word;C:\Users\User\Downloads\OSPanel\domains\localhost\todoList_admin\application\config\constants.php;f42;80;61;80;;;;vpos;;v;;a;;r6;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="EXIT_USER_INPUT;PHP:PHP Word;C:\Users\User\Downloads\OSPanel\domains\localhost\todoList_admin\application\config\constants.php;f42;81;57;81;;;;vpos;;v;;a;;r7;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="EXIT__AUTO_MAX;PHP:PHP Word;C:\Users\User\Downloads\OSPanel\domains\localhost\todoList_admin\application\config\constants.php;f42;84;56;84;;;;vpos;;v;;a;;r125;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="EXIT__AUTO_MIN;PHP:PHP Word;C:\Users\User\Downloads\OSPanel\domains\localhost\todoList_admin\application\config\constants.php;f42;83;56;83;;;;vpos;;v;;a;;r9;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="FILE_READ_MODE;PHP:PHP Word;C:\Users\User\Downloads\OSPanel\domains\localhost\todoList_admin\application\config\constants.php;f38;28;52;28;;;;vpos;;v;;a;;r0644;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="FILE_WRITE_MODE;PHP:PHP Word;C:\Users\User\Downloads\OSPanel\domains\localhost\todoList_admin\application\config\constants.php;f38;29;53;29;;;;vpos;;v;;a;;r0666;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="FOPEN_READ;PHP:PHP Word;C:\Users\User\Downloads\OSPanel\domains\localhost\todoList_admin\application\config\constants.php;f59;41;69;41;;;;vpos;;v;;a;;r&apos;rb&apos;;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="FOPEN_READ_WRITE;PHP:PHP Word;C:\Users\User\Downloads\OSPanel\domains\localhost\todoList_admin\application\config\constants.php;f59;42;75;42;;;;vpos;;v;;a;;r&apos;r+b&apos;;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="FOPEN_READ_WRITE_CREATE;PHP:PHP Word;C:\Users\User\Downloads\OSPanel\domains\localhost\todoList_admin\application\config\constants.php;f59;46;82;46;;;;vpos;;v;;a;;r&apos;a+b&apos;;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="FOPEN_READ_WRITE_CREATE_DESTRUCTIVE;PHP:PHP Word;C:\Users\User\Downloads\OSPanel\domains\localhost\todoList_admin\application\config\constants.php;f59;44;94;44;;;;vpos;;v;;a;;r&apos;w+b&apos;;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="FOPEN_READ_WRITE_CREATE_STRICT;PHP:PHP Word;C:\Users\User\Downloads\OSPanel\domains\localhost\todoList_admin\application\config\constants.php;f59;48;89;48;;;;vpos;;v;;a;;r&apos;x+b&apos;;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="FOPEN_WRITE_CREATE;PHP:PHP Word;C:\Users\User\Downloads\OSPanel\domains\localhost\todoList_admin\application\config\constants.php;f59;45;77;45;;;;vpos;;v;;a;;r&apos;ab&apos;;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="FOPEN_WRITE_CREATE_DESTRUCTIVE;PHP:PHP Word;C:\Users\User\Downloads\OSPanel\domains\localhost\todoList_admin\application\config\constants.php;f59;43;89;43;;;;vpos;;v;;a;;r&apos;wb&apos;;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="FOPEN_WRITE_CREATE_STRICT;PHP:PHP Word;C:\Users\User\Downloads\OSPanel\domains\localhost\todoList_admin\application\config\constants.php;f59;47;84;47;;;;vpos;;v;;a;;r&apos;xb&apos;;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="SHOW_DEBUG_BACKTRACE;PHP:PHP Word;C:\Users\User\Downloads\OSPanel\domains\localhost\todoList_admin\application\config\constants.php;f43;13;63;13;;;;vpos;;v;;a;;rTRUE;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="Load_data_model;PHP:Class Name;C:\Users\User\Downloads\OSPanel\domains\localhost\todoList\application\models\Load_data_model.php;f1;3;2;24;;C:\Users\User\Downloads\OSPanel\domains\localhost\todoList_admin\application\models\Load_data_model.php;f1;3;2;62;;;;vpos;;v;;aCI_Model;;c;;r;;d1,4;;b0,0;;m0;;e">
+<treenode node="count_data;PHP:Function Name;C:\Users\User\Downloads\OSPanel\domains\localhost\todoList\application\models\Load_data_model.php;f9;15;3;21;;C:\Users\User\Downloads\OSPanel\domains\localhost\todoList_admin\application\models\Load_data_model.php;f10;7;7;13;;;;vpos;;v;;a;;r;;d8,8;;b1,0;;m0;;e">
+</treenode>
+<treenode node="delete_todo;PHP:Function Name;C:\Users\User\Downloads\OSPanel\domains\localhost\todoList_admin\application\models\Load_data_model.php;f3;35;7;38;;;;vpos;;v;;a;;r;;d3,36;;b0,0;;m0;;eid;;p;;x">
+</treenode>
+<treenode node="is_admin;PHP:Function Name;C:\Users\User\Downloads\OSPanel\domains\localhost\todoList_admin\application\models\Load_data_model.php;f3;53;4;59;;;;vpos;;v;;a;;r;;d3,54;;b0,0;;m0;;edata;;p;;x">
+</treenode>
+<treenode node="select_data;PHP:Function Name;C:\Users\User\Downloads\OSPanel\domains\localhost\todoList\application\models\Load_data_model.php;f10;5;4;13;;C:\Users\User\Downloads\OSPanel\domains\localhost\todoList_admin\application\models\Load_data_model.php;f13;39;4;48;;;;vpos;;v;;a;;r;;d3,40;;b1,0;;m0;;eorder;;pstart;;p;;x;;x">
+</treenode>
+<treenode node="update_status;PHP:Function Name;C:\Users\User\Downloads\OSPanel\domains\localhost\todoList_admin\application\models\Load_data_model.php;f4;28;8;31;;;;vpos;;v;;a;;r;;d4,29;;b0,0;;m0;;edata;;p;;x">
+</treenode>
+<treenode node="update_todoText;PHP:Function Name;C:\Users\User\Downloads\OSPanel\domains\localhost\todoList_admin\application\models\Load_data_model.php;f3;17;7;23;;;;vpos;;v;;a;;r;;d3,18;;b0,0;;m0;;edata;;p;;x">
+</treenode>
+</treenode>
+<treenode node="SaveData_model;PHP:Class Name;C:\Users\User\Downloads\OSPanel\domains\localhost\todoList_admin\application\models\SaveData_model.php;f1;3;2;32;;;;vpos;;v;;aCI_Model;;c;;r;;d38,3;;b0,0;;m0;;e">
+<treenode node="insert_data;PHP:Function Name;C:\Users\User\Downloads\OSPanel\domains\localhost\todoList_admin\application\models\SaveData_model.php;f9;4;3;7;;;;vpos;;v;;a;;r;;d2,5;;b1,0;;m0;;edata;;p;;x">
+</treenode>
+<treenode node="update_data;PHP:Function Name;C:\Users\User\Downloads\OSPanel\domains\localhost\todoList_admin\application\models\SaveData_model.php;f9;8;3;11;;;;vpos;;v;;a;;r;;d2,9;;b1,0;;m0;;edata;;p;;x">
+</treenode>
+<treenode node="update_text;PHP:Function Name;C:\Users\User\Downloads\OSPanel\domains\localhost\todoList_admin\application\models\SaveData_model.php;f10;12;3;16;;;;vpos;;v;;a;;r;;d2,13;;b1,0;;m0;;edata;;p;;x">
+</treenode>
+</treenode>
+<treenode node="Welcome;PHP:Class Name;C:\Users\User\Downloads\OSPanel\domains\localhost\todoList\application\controllers\Welcome.php;f0;3;1;72;;C:\Users\User\Downloads\OSPanel\domains\localhost\todoList_admin\application\controllers\Welcome.php;f0;3;1;129;;;;vpos;;v;;aCI_Controller;;c;;r;;d36,3;;b0,0;;m0;;e">
+<treenode node="Delete_And_Change;PHP:Function Name;C:\Users\User\Downloads\OSPanel\domains\localhost\todoList_admin\application\controllers\Welcome.php;f1;91;2;98;;;;vpos;;v;;a;;r;;d29,91;;b0,0;;m0;;e">
+</treenode>
+<treenode node="addToList;PHP:Function Name;C:\Users\User\Downloads\OSPanel\domains\localhost\todoList\application\controllers\Welcome.php;f8;30;2;50;;;;vpos;;v;;a;;r;;d28,30;;b1,0;;m0;;e">
+</treenode>
+<treenode node="delete_todo;PHP:Function Name;C:\Users\User\Downloads\OSPanel\domains\localhost\todoList_admin\application\controllers\Welcome.php;f3;84;2;87;;;;vpos;;v;;a;;r;;d25,84;;b0,0;;m0;;e">
+</treenode>
+<treenode node="getBody;PHP:Function Name;C:\Users\User\Downloads\OSPanel\domains\localhost\todoList\application\controllers\Welcome.php;f1;52;2;66;;;;vpos;;v;;a;;r;;d19,52;;b0,0;;m0;;e">
+</treenode>
+<treenode node="index;PHP:Function Name;C:\Users\User\Downloads\OSPanel\domains\localhost\todoList\application\controllers\Welcome.php;f8;20;2;26;;C:\Users\User\Downloads\OSPanel\domains\localhost\todoList_admin\application\controllers\Welcome.php;f8;20;2;40;;;;vpos;;v;;a;;r&#10;&lt;b&gt;Definition&lt;/b&gt;&#10;    index()&#10;&#10;&lt;b&gt;Description&lt;/b&gt;&#10;    Index Page for this controller.&#10;Maps to the following URL&#10;http://example.com/index.php/welcome&#10;- or -&#10;http://example.com/index.php/welcome/index&#10;- or -&#10;Since this controller is set as the default controller in&#10;config/routes.php, it&apos;s displayed at http://example.com/&#10;So any other public methods not prefixed with an underscore will&#10;map to /index.php/welcome/&lt;method_name&gt;&#10;&lt;b&gt;see&lt;/b&gt;: https://codeigniter.com/user_guide/general/urls.html;;d1,21;;b1,0;;m0;;e">
+</treenode>
+<treenode node="load_view;PHP:Function Name;C:\Users\User\Downloads\OSPanel\domains\localhost\todoList_admin\application\controllers\Welcome.php;f1;43;2;59;;;;vpos;;v;;a;;r;;d21,43;;b0,0;;m0;;e">
+</treenode>
+<treenode node="login;PHP:Function Name;C:\Users\User\Downloads\OSPanel\domains\localhost\todoList_admin\application\controllers\Welcome.php;f4;102;2;127;;;;vpos;;v;;a;;r;;d20,102;;b0,0;;m0;;e">
+</treenode>
+<treenode node="update_status;PHP:Function Name;C:\Users\User\Downloads\OSPanel\domains\localhost\todoList_admin\application\controllers\Welcome.php;f4;73;2;80;;;;vpos;;v;;a;;r;;d28,73;;b0,0;;m0;;e">
+</treenode>
+<treenode node="update_text;PHP:Function Name;C:\Users\User\Downloads\OSPanel\domains\localhost\todoList_admin\application\controllers\Welcome.php;f4;63;2;70;;;;vpos;;v;;a;;r;;d26,63;;b0,0;;m0;;e">
+</treenode>
+<treenode node="$pages;PHP:Var Name;C:\Users\User\Downloads\OSPanel\domains\localhost\todoList\application\controllers\Welcome.php;f9;28;15;28;;;;vpos;;v;;a;;r;;d-1,-1;;b1,0;;m0;;e">
+</treenode>
+</treenode>
+</phptree>
+<jstree>
+<treenode node="delete_;JS:Function Name;C:\Users\User\Downloads\OSPanel\domains\localhost\todoList_admin\application\views\welcome.php;f0;209;8;224;;;;vpos;;v;;a;;r;;d24,209;;b0,0;;m0;;eid_;;p;;x">
+<treenode node="success;JS:Function Name;C:\Users\User\Downloads\OSPanel\domains\localhost\todoList_admin\application\views\welcome.php;f4;215;5;218;;;;vpos;;v;;a;;r;;d26,215;;b0,0;;m0;;einfo;;p;;x">
+<treenode node="document;JS:JS Var Name;C:\Users\User\Downloads\OSPanel\domains\localhost\todoList_admin\application\views\welcome.php;f8;216;16;216;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="id_;JS:JS Var Name;C:\Users\User\Downloads\OSPanel\domains\localhost\todoList_admin\application\views\welcome.php;f40;216;43;216;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="info;JS:JS Var Name;C:\Users\User\Downloads\OSPanel\domains\localhost\todoList_admin\application\views\welcome.php;f21;215;25;215;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+</treenode>
+<treenode node="$;JS:JS Var Name;C:\Users\User\Downloads\OSPanel\domains\localhost\todoList_admin\application\views\welcome.php;f3;211;4;211;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="data;JS:JS Var Name;C:\Users\User\Downloads\OSPanel\domains\localhost\todoList_admin\application\views\welcome.php;f4;214;39;214;;;;vpos;;v;;a;;r;;d9,214;;b0,0;;m0;;e">
+<treenode node="id_;JS:JS Var Name;C:\Users\User\Downloads\OSPanel\domains\localhost\todoList_admin\application\views\welcome.php;f15;214;18;214;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+</treenode>
+<treenode node="id_;JS:JS Var Name;C:\Users\User\Downloads\OSPanel\domains\localhost\todoList_admin\application\views\welcome.php;f20;209;23;209;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="type;JS:JS Var Name;C:\Users\User\Downloads\OSPanel\domains\localhost\todoList_admin\application\views\welcome.php;f4;213;8;213;;;;vposString;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="url;JS:JS Var Name;C:\Users\User\Downloads\OSPanel\domains\localhost\todoList_admin\application\views\welcome.php;f4;212;7;212;;;;vposString;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+</treenode>
+<treenode node="edit_;JS:Function Name;C:\Users\User\Downloads\OSPanel\domains\localhost\todoList_admin\application\views\welcome.php;f0;176;3;207;;;;vpos;;v;;a;;r;;d22,176;;b0,0;;m0;;eid_;;p;;x">
+<treenode node="success;JS:Function Name;C:\Users\User\Downloads\OSPanel\domains\localhost\todoList_admin\application\views\welcome.php;f10;194;11;199;;;;vpos;;v;;a;;r;;d28,194;;b0,0;;m0;;e">
+<treenode node="document;JS:JS Var Name;C:\Users\User\Downloads\OSPanel\domains\localhost\todoList_admin\application\views\welcome.php;f14;195;22;195;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="edit_click;JS:JS Var Name;C:\Users\User\Downloads\OSPanel\domains\localhost\todoList_admin\application\views\welcome.php;f11;198;21;198;;;;vposString;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="id_;JS:JS Var Name;C:\Users\User\Downloads\OSPanel\domains\localhost\todoList_admin\application\views\welcome.php;f45;195;48;195;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+</treenode>
+<treenode node="$;JS:JS Var Name;C:\Users\User\Downloads\OSPanel\domains\localhost\todoList_admin\application\views\welcome.php;f11;187;12;187;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="data;JS:JS Var Name;C:\Users\User\Downloads\OSPanel\domains\localhost\todoList_admin\application\views\welcome.php;f7;190;8;193;;;;vpos;;v;;a;;r;;d12,190;;b0,0;;m0;;e">
+<treenode node="document;JS:JS Var Name;C:\Users\User\Downloads\OSPanel\domains\localhost\todoList_admin\application\views\welcome.php;f19;192;27;192;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="id_;JS:JS Var Name;C:\Users\User\Downloads\OSPanel\domains\localhost\todoList_admin\application\views\welcome.php;f12;191;15;191;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+</treenode>
+<treenode node="document;JS:JS Var Name;C:\Users\User\Downloads\OSPanel\domains\localhost\todoList_admin\application\views\welcome.php;f5;179;13;179;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="edit_click;JS:JS Var Name;C:\Users\User\Downloads\OSPanel\domains\localhost\todoList_admin\application\views\welcome.php;f6;177;16;177;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="id_;JS:JS Var Name;C:\Users\User\Downloads\OSPanel\domains\localhost\todoList_admin\application\views\welcome.php;f18;176;21;176;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="type;JS:JS Var Name;C:\Users\User\Downloads\OSPanel\domains\localhost\todoList_admin\application\views\welcome.php;f7;189;11;189;;;;vposString;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="url;JS:JS Var Name;C:\Users\User\Downloads\OSPanel\domains\localhost\todoList_admin\application\views\welcome.php;f7;188;10;188;;;;vposString;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+</treenode>
+<treenode node="todo_;JS:Function Name;C:\Users\User\Downloads\OSPanel\domains\localhost\todoList_admin\application\views\welcome.php;f0;159;8;174;;;;vpos;;v;;a;;r;;d22,159;;b0,0;;m0;;eid_;;p;;x">
+<treenode node="success;JS:Function Name;C:\Users\User\Downloads\OSPanel\domains\localhost\todoList_admin\application\views\welcome.php;f4;164;5;167;;;;vpos;;v;;a;;r;;d23,164;;b0,0;;m0;;e">
+<treenode node="document;JS:JS Var Name;C:\Users\User\Downloads\OSPanel\domains\localhost\todoList_admin\application\views\welcome.php;f5;165;13;165;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="id_;JS:JS Var Name;C:\Users\User\Downloads\OSPanel\domains\localhost\todoList_admin\application\views\welcome.php;f38;165;41;165;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+</treenode>
+<treenode node="$;JS:JS Var Name;C:\Users\User\Downloads\OSPanel\domains\localhost\todoList_admin\application\views\welcome.php;f3;160;4;160;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="data;JS:JS Var Name;C:\Users\User\Downloads\OSPanel\domains\localhost\todoList_admin\application\views\welcome.php;f4;163;33;163;;;;vpos;;v;;a;;r;;d10,163;;b0,0;;m0;;e">
+<treenode node="id_;JS:JS Var Name;C:\Users\User\Downloads\OSPanel\domains\localhost\todoList_admin\application\views\welcome.php;f16;163;19;163;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+</treenode>
+<treenode node="id_;JS:JS Var Name;C:\Users\User\Downloads\OSPanel\domains\localhost\todoList_admin\application\views\welcome.php;f18;159;21;159;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="type;JS:JS Var Name;C:\Users\User\Downloads\OSPanel\domains\localhost\todoList_admin\application\views\welcome.php;f4;162;8;162;;;;vposString;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="url;JS:JS Var Name;C:\Users\User\Downloads\OSPanel\domains\localhost\todoList_admin\application\views\welcome.php;f4;161;7;161;;;;vposString;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+</treenode>
+</jstree>
+</codestructure>

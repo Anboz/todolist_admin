@@ -52,9 +52,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 	 	//==================================== 
 	 	
 	 	function is_admin($data)					
-	 	{ 	
-	      $this->db->select("*");
-	      $this->db->from('tbl_admin');
+	 	{ 
 	 	  return  count($this->db->query("SELECT *FROM tbl_admin WHERE password = '".$data['password']."' AND login = '".$data['login']."'")->result())  > 0;
 	     
 	 	}
